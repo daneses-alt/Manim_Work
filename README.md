@@ -1,5 +1,5 @@
 # Manim_Work
-Some simple manim code and sample videos
+Some simple manim code and sample videos. Click "download raw file" on any mp4 file to view it. 
 
 
 # Divergence Thereom Illustration
